@@ -30,22 +30,6 @@ Personal Portfolio
   <h2 class= "projects-section-header">These are some of my projects</h2>
   
   <div class= "projects-grid">
-    <a 
-       href= "https://codepen.io/angustsui/full/VwajPgd"
-       target= "_blank"
-       class= "projects-link"
-       >
-      <img
-           class= "projects-image"
-           src= "https://i.postimg.cc/KvSxcrLs/Untitled.png"
-           alt= "project"
-           />
-      <p class= "project-title">
-        <span class= "code">&lt;</span>
-        Tribute Page
-        <spam class= "code">&#47;&gt;</span>
-      </p>
-    </a>
     
     <a
        href= "https://codepen.io/angustsui/full/qBZpQja"
