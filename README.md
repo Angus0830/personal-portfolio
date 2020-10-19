@@ -1,6 +1,8 @@
 # personal-portfolio
 Personal Portfolio
 
+<script src="https://kit.fontawesome.com/023d0315d7.js" crossorigin="anonymous"></script>
+
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,200&display=swap" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
@@ -35,7 +37,7 @@ Personal Portfolio
        >
       <img
            class= "projects-image"
-           src= "https://i.postimg.cc/Y2L3s9c7/Capture-tribute.jpg"
+           src= "https://i.postimg.cc/KYZSG6zD/capture-tribute.png"
            alt= "project"
            />
       <p class= "project-title">
@@ -52,7 +54,7 @@ Personal Portfolio
        >
       <img
            class= "projects-image"
-           src= "https://i.postimg.cc/KYZSG6zD/capture-tribute.png"
+           src= "https://camo.githubusercontent.com/ded2813a2e1a9e17074667a8b96db445b597f357/68747470733a2f2f692e706f7374696d672e63632f59324c33733963372f436170747572652d747269627574652e6a7067"
            
            alt= "project"
            />
@@ -109,3 +111,6 @@ Personal Portfolio
   Copyright &copy; 2020 Angus Tsui. All Rights Reserved<i class="fab fa-adn"></i> 
 </p>
 </footer>
+
+
+
