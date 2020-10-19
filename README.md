@@ -1,8 +1,6 @@
 # personal-portfolio
 Personal Portfolio
 
-<script src="https://kit.fontawesome.com/023d0315d7.js" crossorigin="anonymous"></script>
-
 <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;1,200&display=swap" rel="stylesheet">
 
 <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@700&display=swap" rel="stylesheet">
@@ -30,6 +28,22 @@ Personal Portfolio
   <h2 class= "projects-section-header">These are some of my projects</h2>
   
   <div class= "projects-grid">
+    <a 
+       href= "https://codepen.io/angustsui/full/VwajPgd"
+       target= "_blank"
+       class= "projects-link"
+       >
+      <img
+           class= "projects-image"
+           src= "https://i.postimg.cc/Y2L3s9c7/Capture-tribute.jpg"
+           alt= "project"
+           />
+      <p class= "project-title">
+        <span class= "code">&lt;</span>
+        Tribute Page
+        <spam class= "code">&#47;&gt;</span>
+      </p>
+    </a>
     
     <a
        href= "https://codepen.io/angustsui/full/qBZpQja"
@@ -38,7 +52,7 @@ Personal Portfolio
        >
       <img
            class= "projects-image"
-           src= "https://i.postimg.cc/Y2L3s9c7/Capture-tribute.jpg"
+           src= "https://i.postimg.cc/Y2L3s9c7/Capture-survey.jpg"
            
            alt= "project"
            />
@@ -56,7 +70,7 @@ Personal Portfolio
        >
       <img
            class= "products-image"
-           src= "https://i.postimg.cc/Pf1DD8sC/Capture-product.jpg"
+           src= "https://camo.githubusercontent.com/6c8074b4d1ee251cf9a9a8b8deef3ee8d6392821/68747470733a2f2f692e706f7374696d672e63632f4b76537863724c732f556e7469746c65642e706e67"
            
            alt= "project"
            />
