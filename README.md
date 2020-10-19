@@ -52,7 +52,7 @@ Personal Portfolio
        >
       <img
            class= "projects-image"
-           src= "https://i.postimg.cc/Y2L3s9c7/Capture-survey.jpg"
+           src= "https://i.postimg.cc/KYZSG6zD/capture-tribute.png"
            
            alt= "project"
            />
