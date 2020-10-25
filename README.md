@@ -37,7 +37,7 @@ Personal Portfolio
        >
       <img
            class= "projects-image"
-           src= "https://i.postimg.cc/Ghk5QP9p/tribute-capture.jpg"
+           src= "https://i.postimg.cc/Qdz1KwsK/product-capture.jpg"
            alt= "project"
            />
       <p class= "project-title">
@@ -54,7 +54,7 @@ Personal Portfolio
        >
       <img
            class= "projects-image"
-           src= "https://camo.githubusercontent.com/ded2813a2e1a9e17074667a8b96db445b597f357/68747470733a2f2f692e706f7374696d672e63632f59324c33733963372f436170747572652d747269627574652e6a7067"
+           src= "https://i.postimg.cc/Qdz1KwsK/product-capture.jpg"
            
            alt= "project"
            />
