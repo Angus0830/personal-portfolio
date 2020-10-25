@@ -37,7 +37,7 @@ Personal Portfolio
        >
       <img
            class= "projects-image"
-           src= "https://i.postimg.cc/KYZSG6zD/capture-tribute.png"
+           src= "https://i.postimg.cc/Ghk5QP9p/tribute-capture.jpg"
            alt= "project"
            />
       <p class= "project-title">
