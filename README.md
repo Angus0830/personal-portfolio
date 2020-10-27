@@ -37,7 +37,7 @@ Personal Portfolio
        >
       <img
            class= "projects-image"
-           src= "https://i.postimg.cc/Qdz1KwsK/product-capture.jpg"
+           src= "https://i.postimg.cc/qB69S9R1/Capture-product.jpg"
            alt= "project"
            />
       <p class= "project-title">
@@ -54,7 +54,7 @@ Personal Portfolio
        >
       <img
            class= "projects-image"
-           src= "https://i.postimg.cc/Qdz1KwsK/product-capture.jpg"
+           src= "https://i.postimg.cc/qB69S9R1/Capture-product.jpg"
            
            alt= "project"
            />
